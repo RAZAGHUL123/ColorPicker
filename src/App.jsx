@@ -1,4 +1,4 @@
-
+import React, { useState } from 'react'; // Importing useState
 import './index.css';
 
 const Color = ({color, setSelectedColor}) => {
